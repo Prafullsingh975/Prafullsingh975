@@ -13,7 +13,7 @@
   </a>
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prafullsingh975.prafullsingh975&"  />
 </div></h2>
-<p align="left">I'm a software Developer and tech enthusiast who is passionate about creating technology to elevate people, and building a community where sharing of knowledge is super easy. I mostly prefer JavaScript, TypeScript, and Go lang as Programming languages. I enjoy working with Node.js, REST APIs, MongoDB, and more.</p>
+<p align="left">I'm a software Developer and tech enthusiast. I mostly prefer JavaScript, TypeScript, Java and Go lang as Programming languages. I enjoy working with Node.js, REST APIs, MongoDB, and more.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
